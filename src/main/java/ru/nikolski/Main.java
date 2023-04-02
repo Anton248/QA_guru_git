@@ -8,7 +8,7 @@ public class Main {
     }
 
     public static String message(){
-        return msg;
+        return msg2;
     }
 
 }
